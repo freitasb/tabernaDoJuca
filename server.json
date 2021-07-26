@@ -1,0 +1,145 @@
+{
+    "produtos" : [
+        {
+            "id" : 1,
+            "name" : "Heal Potion",
+            "image": "https://i.pinimg.com/originals/57/32/9e/57329ee5bdbf1c1776344361077e789a.jpg",
+            "description": "usado para restaurar seus pontos de vida",
+            "price" : 50
+        },
+        {
+            "id" : 2,
+            "name" : "Mana Potion",
+            "image": "https://i.pinimg.com/originals/ff/fb/30/fffb30ba18e22503dfb7101be73eedfd.jpg",
+            "description": "usado para restaurar seus pontos de energia",
+            "price" : 50
+        },
+        {
+            "id" : 3,
+            "name" : "Eter",
+            "image": "https://i.pinimg.com/originals/7c/68/fc/7c68fcdb0a69eb4523a297a525414e21.jpg",
+            "description": "usado para restaurar sua armadura",
+            "price" : 50
+        },
+        {
+            "id" : 4,
+            "name" : "Elixir",
+            "image": "https://i.pinimg.com/originals/b8/6e/d2/b86ed227bbc753d9f4ddaacfa631fed8.jpg",
+            "description": "usado para restaurar seus pontos vitais e de energia ",
+            "price" : 50
+        },
+        {
+            "id" : 5,
+            "name" : "Espada corta-tudo",
+            "image": "https://i.pinimg.com/originals/2f/3b/14/2f3b148e4860fc91da23c604d086e980.jpg",
+            "description": "1 hit KO.",
+            "price" : 50
+        },
+        {
+            "id" : 6,
+            "name" : "Espada Mágica",
+            "image": "https://i.pinimg.com/originals/40/9f/5f/409f5f4ae5d34b0eaeed80dd7eacbd5c.jpg",
+            "description": "Usada para derrotar magos",
+            "price" : 50
+        },
+        {
+            "id" : 7,
+            "name" : "Espada Bárbara",
+            "image": "https://i.pinimg.com/originals/1e/80/c6/1e80c623cae44363dd80ede59afeb4f5.jpg",
+            "description": "Dano crítico aumentado",
+            "price" : 50
+        },
+        {
+            "id" : 8,
+            "name" : "Espada de âmbar",
+            "image": "https://i.pinimg.com/originals/aa/18/4d/aa184d3739b6b1f24e180da506dbb321.jpg",
+            "description": "Dobra o dano",
+            "price" : 50
+        },
+        {
+            "id" : 9,
+            "name" : "Capacete de Defesa",
+            "image": "https://i.pinimg.com/236x/c5/6c/07/c56c076b7898eb84e9ff37dba66161b5.jpg",
+            "description": "Recebe metade do dano",
+            "price" : 50
+        },
+        {
+            "id" : 10,
+            "name" : "Capacete do Ar Divino",
+            "image": "https://i.pinimg.com/236x/73/91/ab/7391ab85ae61b70cf3235c6afc831e40.jpg",
+            "description": "Com este capacete é possível atacar primeiro que o adversário",
+            "price" : 50
+        },
+        {
+            "id" : 11,
+            "name" : "Capacete de Miguel",
+            "image": "https://i.pinimg.com/236x/57/8b/dd/578bdd988925d78ee0a1838e520f8757.jpg",
+            "description": "Evita que a morte com apenas um ataque recebido",
+            "price" : 50
+        },
+        {
+            "id" : 12,
+            "name" : "Capacete Evasivo",
+            "image": "https://i.pinimg.com/236x/06/0a/44/060a44ef80a3c0dd1c62b222a4586739.jpg",
+            "description": "Aumenta a chance de erro do adversário",
+            "price" : 50
+        },
+        {
+            "id" : 13,
+            "name" : "Armadura de Pégaso",
+            "image": "https://i.pinimg.com/236x/f2/8f/b9/f28fb99fe02e584344b9ea4ad6f9746e.jpg",
+            "description": "+20 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 14,
+            "name" : "Armadura de Bronze",
+            "image": "https://i.pinimg.com/236x/9b/1f/54/9b1f54ca4049e2f8e5038a70bbf83761.jpg",
+            "description": "+30 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 15,
+            "name" : "Armadura de Prata",
+            "image": "https://i.pinimg.com/236x/6b/2a/02/6b2a0281483cc1b9f6bb91b38950c914.jpg",
+            "description": "+40 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 16,
+            "name" : "Armadura de Ouro",
+            "image": "https://i.pinimg.com/236x/d8/c8/a1/d8c8a18157752e2b2b3e90670841bf83.jpg",
+            "description": "+50 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 17,
+            "name" : "Escudo de Primeira",
+            "image": "https://i.pinimg.com/236x/20/e5/eb/20e5eb9a4ca9c6ebf6fcb992ca5e360f.jpg",
+            "description": "+100 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 18,
+            "name" : "Escudo de Segunda",
+            "image": "https://i.pinimg.com/236x/12/35/8d/12358d51009957c0bb7323b7f04c7199.jpg",
+            "description": "+200 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 19,
+            "name" : "Escudo de Terceira",
+            "image": "https://i.pinimg.com/236x/fa/49/8c/fa498c97c49deb28cead5f96e8aa1b82.jpg",
+            "description": "+300 de defesa",
+            "price" : 50
+        },
+        {
+            "id" : 20,
+            "name" : "Escudo de Quarta",
+            "image": "https://i.pinimg.com/236x/82/cc/43/82cc43d1b65bcb7e1c29a1134f337a6b.jpg",
+            "description": "+400 de defesa",
+            "price" : 50
+        }
+    ]
+
+}
